@@ -10,6 +10,17 @@ instance_flavor = Instance paramters such as disk/cpu count , ID be pulled up by
 
 instance_network = Network to be associated by instance , ID to be pulled up by command "neutron net-list"
 
+Update your openstack credentials on varibles
+
+username 
+
+password 
+
+tenant_name 
+
+auth_url 
+
+
 
 To execute the script
 
